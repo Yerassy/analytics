@@ -13,8 +13,11 @@ dbt Cloud
 Google Big Query
 Google Looker Studio
 
-First i get some data from various ad platforms into a single one.
+First i get some data from various ad platforms .
 The question that i solved "Where clicks better on facebook or tiktok?"
 Second in Google Big Query i analyze and clean data with sql 
 Third i connect Google Big Query to dbt cloud and transform data and do etl process then i return ready made data to Bigquery
 Finally i connect Google Big Query with Looker studio to make some Visual 
+
+In folder seeds data from various ad platforms. 
+In folder models ETL script. 
