@@ -21,3 +21,4 @@ Finally i connect Google Big Query with Looker studio to make some Visual
 
 In folder seeds data from various ad platforms. 
 In folder models ETL script. 
+Here is link to dashboard https://lookerstudio.google.com/u/0/reporting/a0a5fe45-bedd-47a1-bfd4-083a797c3354/page/4i3UD/edit
